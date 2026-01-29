@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/S200208/Income-Expense-Management-System#readme",
   "dependencies": {
+    "dotenv": "^17.2.3",
     "mysql2": "^3.16.2",
     "sequelize": "^6.37.7"
   },
