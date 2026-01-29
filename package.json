@@ -1,0 +1,27 @@
+{
+  "name": "expense-manager-backend",
+  "version": "1.0.0",
+  "description": "An income and expense management system developed as a web application to manage user income, expenses, and remaining balance with secure login, categorized transactions, and summary reports.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S200208/Income-Expense-Management-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S200208/Income-Expense-Management-System/issues"
+  },
+  "homepage": "https://github.com/S200208/Income-Expense-Management-System#readme",
+  "dependencies": {
+    "mysql2": "^3.16.2",
+    "sequelize": "^6.37.7"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.5"
+  }
+}
